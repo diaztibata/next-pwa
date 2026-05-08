@@ -4,7 +4,7 @@ const CACHE_NAME = 'version-1';
 // Definimos las rutas reales de tu aplicación Next.js
 const urlsToCache = [
   '/',      // Tu página Home (page.tsx)
-  '/notas',   // Tu página notas (uno/page.tsx)
+  '/notas',   // Tu página notas (notas/page.tsx)
   '/manifest.json' // Eel manifest también
 ];
 
